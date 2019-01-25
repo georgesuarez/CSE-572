@@ -1,0 +1,17 @@
+SQL> SELECT FIRST_NAME || ' ' || LAST_NAME
+  2  FROM EMPLOYEES
+  3  WHERE DEPARTMENT_ID=100
+  4  ORDER BY FIRST_NAME;
+PRESS RETURN TO CONTINUE
+FIRST_NAME||''||LAST_NAME                                                                                                           
+----------------------------------------------                                                                                      
+Daniel Faviet                                                                                                                       
+Ismael Sciarra                                                                                                                      
+John Chen                                                                                                                           
+Jose Manuel Urman                                                                                                                   
+Luis Popp                                                                                                                           
+Nancy Greenberg                                                                                                                     
+
+6 rows selected.
+
+SQL> spool off
