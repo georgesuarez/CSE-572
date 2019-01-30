@@ -33,6 +33,7 @@ DEPARTMENT_ID DEPARTMENT_NAME                MANAGER_ID LOCATION_ID
 27 rows selected.
 
 SQL> spool off
+
 SQL> SELECT COUNT(EMPLOYEE_ID)
   2  FROM HR.EMPLOYEES
   3  WHERE SALARY > 15000 AND HIRE_DATE BETWEEN '01-JAN-02' AND '01-JAN-05';
@@ -42,6 +43,7 @@ COUNT(EMPLOYEE_ID)
                  1                                                                                                                  
 
 SQL> spool off
+
 SQL> SELECT COUNT(PHONE_NUMBER)
   2  FROM HR.EMPLOYEES
   3  WHERE PHONE_NUMBER NOT LIKE '515.%%%.%%%%';
@@ -51,6 +53,7 @@ COUNT(PHONE_NUMBER)
                  86                                                                                                                 
 
 SQL> spool off
+
 SQL> SELECT FIRST_NAME || ' ' || LAST_NAME
   2  FROM EMPLOYEES
   3  WHERE DEPARTMENT_ID=100
@@ -68,6 +71,7 @@ Nancy Greenberg
 6 rows selected.
 
 SQL> spool off
+
 SQL> SELECT CITY, STATE_PROVINCE, COUNTRY_NAME
   2  FROM COUNTRIES
   3  JOIN LOCATIONS USING (COUNTRY_ID)
@@ -86,6 +90,7 @@ Singapore                                                Singapore
 6 rows selected.
 
 SQL> spool off
+
 SQL> SELECT * FROM LOCATIONS WHERE STATE_PROVINCE IS NULL OR STATE_PROVINCE='';
 PRESS RETURN TO CONTINUE
 LOCATION_ID STREET_ADDRESS                           POSTAL_CODE  CITY                           STATE_PROVINCE            CO       
@@ -100,3 +105,9 @@ LOCATION_ID STREET_ADDRESS                           POSTAL_CODE  CITY          
 6 rows selected.
 
 SQL> spool off
+
+The DUAL table can be used for performing operations using the SELECT statement such as doing:
+'SELECT 4 * 5 FROM DUAL;' will return 20 as a result. It can also be used to retrieve the the
+current system's date and time by performing 'SELECT SYSDATE FROM DUAL;'  
+
+
