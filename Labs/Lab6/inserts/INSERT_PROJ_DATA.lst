@@ -1,0 +1,19 @@
+SQL> INSERT INTO PROJ VALUES('10','Product X','20');
+
+1 row created.
+
+SQL> INSERT INTO PROJ VALUES('20','Product Y','20');
+
+1 row created.
+
+SQL> INSERT INTO PROJ VALUES('30','Computerization','60');
+
+1 row created.
+
+SQL> INSERT INTO PROJ VALUES('40','Product Z','80');
+
+1 row created.
+
+SQL> INSERT INTO PROJ VALUES('50','Mobile Apps','60');
+
+1 row created.
