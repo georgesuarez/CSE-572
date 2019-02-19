@@ -1,0 +1,72 @@
+[
+  {
+    "id": 32478,
+    "genres": [
+      9,
+      13,
+      32
+    ],
+    "name": "Welcome to the Game",
+    "platforms": [
+      6,
+      14
+    ],
+    "rating": 80.0
+  },
+  {
+    "id": 29776,
+    "genres": [
+      13,
+      15,
+      31,
+      32
+    ],
+    "name": "Demon Lord",
+    "platforms": [
+      6
+    ]
+  },
+  {
+    "id": 104945,
+    "genres": [
+      32
+    ],
+    "name": "Woodpunk",
+    "rating": 70.0
+  },
+  {
+    "id": 98774,
+    "genres": [
+      15,
+      32
+    ],
+    "name": "Whitevale Defender"
+  },
+  {
+    "id": 104748,
+    "name": "Space station - build your own ISS"
+  },
+  {
+    "id": 64979,
+    "name": "World War II: Prisoner of War"
+  },
+  {
+    "id": 69530,
+    "name": "Dai Senryaku VII: Modern Military Tactics"
+  },
+  {
+    "id": 81332,
+    "name": "Stick Fighter II"
+  },
+  {
+    "id": 105842,
+    "name": "Robots Vs Zombies: Transform To Race And Fight"
+  },
+  {
+    "id": 60730,
+    "genres": [
+      14
+    ],
+    "name": "Quidditch Manager"
+  }
+]
