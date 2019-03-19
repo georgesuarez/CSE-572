@@ -2,7 +2,7 @@ INSERT INTO Game
 (InventoryID, gameMode, Developers, Rating, Platform, Genre, Publishers, Themes,
 Perspective, Description, Availablity, InventoryCount, CustomerID, Title)
 VALUES
-(1, 'SP', 'Santa Monica STD', 96, 'PS4', 'Adventure', 'Sony ENT', 'Mythology', '3rd Person', 'Play as Kratos in the new 2018 Game', 'T', 10, 0001, 'God of War');
+(1, 'SP', 'Santa Monica STD', 96, 'PS4', 'Adventure', 'Sony ENT', 'Mythology', '3rd Person', 'Play as Kratos in the new 2018 Game', 'T', 1, 0001, 'God of War');
 
 INSERT INTO PLATFORM
 (PLATID, PLATNAME, PLATRATING, PLATDESC, PLATPRICE, INVENTORYID)
@@ -32,7 +32,7 @@ VALUES
 INSERT INTO INVCOUNT
 (COUNT, AVAILGAME)
 VALUES
-(10, 'T');
+(1, 'T');
 
 INSERT INTO GENRE
 (GENRETYPE, PLATID)
@@ -55,7 +55,7 @@ INSERT INTO Customer
 CUSTOMERPHONE, INVCOUNT)
 VALUES
 (0001, 'Yousef', 'Jarrar', '4342-5620-8563-5541', '27', '005845836@csusb.edu', '909-537-7266',
-  10 );
+  1 );
 
 INSERT INTO PERSPECTIVE
 (PERSPECTIVETYPE, THEMETYPE)
