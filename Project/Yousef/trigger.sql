@@ -8,22 +8,17 @@ BEGIN
 	dbms_output.put_line('Genre: ' || :new.Genre);
 	dbms_output.put_line('Description: ' || :new.Description);
 	dbms_output.put_line('Availability: ' || :new.Availablity);
+	dbms_output.put_line('InventoryCount: ' || :new.InventoryCount || chr(10));
 END;
 /
 
 CREATE OR REPLACE TRIGGER inv_count_is_zero
-BEFORE INSERT OR UPDATE on Game
+BEFORE INSERT OR UPDATE  on Game
 FOR EACH ROW
 BEGIN
 	IF :new.InventoryCount = 0 THEN :new.Availablity := 'F';
+	ELSE :new.Availablity := 'T';
 	END IF;
-END;
-/
-
-CREATE OR REPLACE TRIGGER after_insert_inv_count
-AFTER UPDATE on Game
-BEGIN
-	dbms_output.put_line('InventoryCount is for ' || :title || ' is: ' || :InventoryCount);	
 END;
 /
 
