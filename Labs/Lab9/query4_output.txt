@@ -1,0 +1,530 @@
+Employee: Fay
+Emp#: 202
+Manager: Hartstein
+Mgr#: 100
+
+Employee: Gietz
+Emp#: 206
+Manager: Higgins
+Mgr#: 101
+
+Employee: Zlotkey
+Emp#: 149
+Manager: King
+Mgr#: null
+
+Employee: Cambrault
+Emp#: 148
+Manager: King
+Mgr#: null
+
+Employee: Errazuriz
+Emp#: 147
+Manager: King
+Mgr#: null
+
+Employee: Partners
+Emp#: 146
+Manager: King
+Mgr#: null
+
+Employee: Russell
+Emp#: 145
+Manager: King
+Mgr#: null
+
+Employee: Mourgos
+Emp#: 124
+Manager: King
+Mgr#: null
+
+Employee: Vollman
+Emp#: 123
+Manager: King
+Mgr#: null
+
+Employee: Kaufling
+Emp#: 122
+Manager: King
+Mgr#: null
+
+Employee: Fripp
+Emp#: 121
+Manager: King
+Mgr#: null
+
+Employee: Weiss
+Emp#: 120
+Manager: King
+Mgr#: null
+
+Employee: Raphaely
+Emp#: 114
+Manager: King
+Mgr#: null
+
+Employee: De Haan
+Emp#: 102
+Manager: King
+Mgr#: null
+
+Employee: Kochhar
+Emp#: 101
+Manager: King
+Mgr#: null
+
+Employee: Hartstein
+Emp#: 201
+Manager: King
+Mgr#: null
+
+Employee: Greenberg
+Emp#: 108
+Manager: Kochhar
+Mgr#: 100
+
+Employee: Higgins
+Emp#: 205
+Manager: Kochhar
+Mgr#: 100
+
+Employee: Baer
+Emp#: 204
+Manager: Kochhar
+Mgr#: 100
+
+Employee: Mavris
+Emp#: 203
+Manager: Kochhar
+Mgr#: 100
+
+Employee: Whalen
+Emp#: 200
+Manager: Kochhar
+Mgr#: 100
+
+Employee: Hunold
+Emp#: 103
+Manager: De Haan
+Mgr#: 100
+
+Employee: Lorentz
+Emp#: 107
+Manager: Hunold
+Mgr#: 102
+
+Employee: Pataballa
+Emp#: 106
+Manager: Hunold
+Mgr#: 102
+
+Employee: Austin
+Emp#: 105
+Manager: Hunold
+Mgr#: 102
+
+Employee: Ernst
+Emp#: 104
+Manager: Hunold
+Mgr#: 102
+
+Employee: Popp
+Emp#: 113
+Manager: Greenberg
+Mgr#: 101
+
+Employee: Urman
+Emp#: 112
+Manager: Greenberg
+Mgr#: 101
+
+Employee: Sciarra
+Emp#: 111
+Manager: Greenberg
+Mgr#: 101
+
+Employee: Chen
+Emp#: 110
+Manager: Greenberg
+Mgr#: 101
+
+Employee: Faviet
+Emp#: 109
+Manager: Greenberg
+Mgr#: 101
+
+Employee: Colmenares
+Emp#: 119
+Manager: Raphaely
+Mgr#: 100
+
+Employee: Himuro
+Emp#: 118
+Manager: Raphaely
+Mgr#: 100
+
+Employee: Tobias
+Emp#: 117
+Manager: Raphaely
+Mgr#: 100
+
+Employee: Baida
+Emp#: 116
+Manager: Raphaely
+Mgr#: 100
+
+Employee: Khoo
+Emp#: 115
+Manager: Raphaely
+Mgr#: 100
+
+Employee: Geoni
+Emp#: 183
+Manager: Weiss
+Mgr#: 100
+
+Employee: Sullivan
+Emp#: 182
+Manager: Weiss
+Mgr#: 100
+
+Employee: Fleaur
+Emp#: 181
+Manager: Weiss
+Mgr#: 100
+
+Employee: Taylor
+Emp#: 180
+Manager: Weiss
+Mgr#: 100
+
+Employee: Markle
+Emp#: 128
+Manager: Weiss
+Mgr#: 100
+
+Employee: Landry
+Emp#: 127
+Manager: Weiss
+Mgr#: 100
+
+Employee: Mikkilineni
+Emp#: 126
+Manager: Weiss
+Mgr#: 100
+
+Employee: Nayer
+Emp#: 125
+Manager: Weiss
+Mgr#: 100
+
+Employee: Cabrio
+Emp#: 187
+Manager: Fripp
+Mgr#: 100
+
+Employee: Dellinger
+Emp#: 186
+Manager: Fripp
+Mgr#: 100
+
+Employee: Bull
+Emp#: 185
+Manager: Fripp
+Mgr#: 100
+
+Employee: Sarchand
+Emp#: 184
+Manager: Fripp
+Mgr#: 100
+
+Employee: Olson
+Emp#: 132
+Manager: Fripp
+Mgr#: 100
+
+Employee: Marlow
+Emp#: 131
+Manager: Fripp
+Mgr#: 100
+
+Employee: Atkinson
+Emp#: 130
+Manager: Fripp
+Mgr#: 100
+
+Employee: Bissot
+Emp#: 129
+Manager: Fripp
+Mgr#: 100
+
+Employee: Perkins
+Emp#: 191
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Gates
+Emp#: 190
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Dilly
+Emp#: 189
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Chung
+Emp#: 188
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Philtanker
+Emp#: 136
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Gee
+Emp#: 135
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Rogers
+Emp#: 134
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Mallin
+Emp#: 133
+Manager: Kaufling
+Mgr#: 100
+
+Employee: Jones
+Emp#: 195
+Manager: Vollman
+Mgr#: 100
+
+Employee: McCain
+Emp#: 194
+Manager: Vollman
+Mgr#: 100
+
+Employee: Everett
+Emp#: 193
+Manager: Vollman
+Mgr#: 100
+
+Employee: Bell
+Emp#: 192
+Manager: Vollman
+Mgr#: 100
+
+Employee: Patel
+Emp#: 140
+Manager: Vollman
+Mgr#: 100
+
+Employee: Seo
+Emp#: 139
+Manager: Vollman
+Mgr#: 100
+
+Employee: Stiles
+Emp#: 138
+Manager: Vollman
+Mgr#: 100
+
+Employee: Ladwig
+Emp#: 137
+Manager: Vollman
+Mgr#: 100
+
+Employee: Feeney
+Emp#: 197
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Walsh
+Emp#: 196
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Vargas
+Emp#: 144
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Matos
+Emp#: 143
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Davies
+Emp#: 142
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Rajs
+Emp#: 141
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Grant
+Emp#: 199
+Manager: Mourgos
+Mgr#: 100
+
+Employee: OConnell
+Emp#: 198
+Manager: Mourgos
+Mgr#: 100
+
+Employee: Tuvault
+Emp#: 155
+Manager: Russell
+Mgr#: 100
+
+Employee: Cambrault
+Emp#: 154
+Manager: Russell
+Mgr#: 100
+
+Employee: Olsen
+Emp#: 153
+Manager: Russell
+Mgr#: 100
+
+Employee: Hall
+Emp#: 152
+Manager: Russell
+Mgr#: 100
+
+Employee: Bernstein
+Emp#: 151
+Manager: Russell
+Mgr#: 100
+
+Employee: Tucker
+Emp#: 150
+Manager: Russell
+Mgr#: 100
+
+Employee: Sewall
+Emp#: 161
+Manager: Partners
+Mgr#: 100
+
+Employee: Doran
+Emp#: 160
+Manager: Partners
+Mgr#: 100
+
+Employee: Smith
+Emp#: 159
+Manager: Partners
+Mgr#: 100
+
+Employee: McEwen
+Emp#: 158
+Manager: Partners
+Mgr#: 100
+
+Employee: Sully
+Emp#: 157
+Manager: Partners
+Mgr#: 100
+
+Employee: King
+Emp#: 156
+Manager: Partners
+Mgr#: 100
+
+Employee: Banda
+Emp#: 167
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Ande
+Emp#: 166
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Lee
+Emp#: 165
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Marvins
+Emp#: 164
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Greene
+Emp#: 163
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Vishney
+Emp#: 162
+Manager: Errazuriz
+Mgr#: 100
+
+Employee: Kumar
+Emp#: 173
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Bates
+Emp#: 172
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Smith
+Emp#: 171
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Fox
+Emp#: 170
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Bloom
+Emp#: 169
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Ozer
+Emp#: 168
+Manager: Cambrault
+Mgr#: 100
+
+Employee: Johnson
+Emp#: 179
+Manager: Zlotkey
+Mgr#: 100
+
+Employee: Grant
+Emp#: 178
+Manager: Zlotkey
+Mgr#: 100
+
+Employee: Livingston
+Emp#: 177
+Manager: Zlotkey
+Mgr#: 100
+
+Employee: Taylor
+Emp#: 176
+Manager: Zlotkey
+Mgr#: 100
+
+Employee: Hutton
+Emp#: 175
+Manager: Zlotkey
+Mgr#: 100
+
+Employee: Abel
+Emp#: 174
+Manager: Zlotkey
+Mgr#: 100
+

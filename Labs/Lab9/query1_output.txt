@@ -1,0 +1,428 @@
+Job ID: AC_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: AC_MGR
+Department ID: 80
+Location ID: 2500
+
+Job ID: AD_ASST
+Department ID: 80
+Location ID: 2500
+
+Job ID: AD_PRES
+Department ID: 80
+Location ID: 2500
+
+Job ID: AD_VP
+Department ID: 80
+Location ID: 2500
+
+Job ID: AD_VP
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_ACCOUNT
+Department ID: 80
+Location ID: 2500
+
+Job ID: FI_MGR
+Department ID: 80
+Location ID: 2500
+
+Job ID: HR_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: IT_PROG
+Department ID: 80
+Location ID: 2500
+
+Job ID: IT_PROG
+Department ID: 80
+Location ID: 2500
+
+Job ID: IT_PROG
+Department ID: 80
+Location ID: 2500
+
+Job ID: IT_PROG
+Department ID: 80
+Location ID: 2500
+
+Job ID: IT_PROG
+Department ID: 80
+Location ID: 2500
+
+Job ID: MK_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: MK_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: PR_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: PU_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SA_REP
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: SH_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_CLERK
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_MAN
+Department ID: 80
+Location ID: 2500
+
+Job ID: ST_MAN
+Department ID: 80
+Location ID: 2500
+
