@@ -1,0 +1,28 @@
+SQL> INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr');
+Enter value for deptnum: 20
+Enter value for deptname: Marketing
+Enter value for mgr: 1760
+old   1: INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr')
+new   1: INSERT INTO DEPT VALUES('20','Marketing','1760')
+
+1 row created.
+
+SQL> INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr');
+Enter value for deptnum: 60
+Enter value for deptname: IT
+Enter value for mgr: 1740
+old   1: INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr')
+new   1: INSERT INTO DEPT VALUES('60','IT','1740')
+
+1 row created.
+
+SQL> INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr');
+Enter value for deptnum: 80
+Enter value for deptname: Sales
+Enter value for mgr: 2060
+old   1: INSERT INTO DEPT VALUES('&deptNum','&deptName','&mgr')
+new   1: INSERT INTO DEPT VALUES('80','Sales','2060')
+
+1 row created.
+
+SQL> spool off

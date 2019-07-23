@@ -1,0 +1,9 @@
+SQL> SELECT COUNT(EMPLOYEE_ID)
+  2  FROM HR.EMPLOYEES
+  3  WHERE SALARY > 15000 AND HIRE_DATE BETWEEN '01-JAN-02' AND '01-JAN-05';
+PRESS RETURN TO CONTINUE
+COUNT(EMPLOYEE_ID)                                                                                                                  
+------------------                                                                                                                  
+                 1                                                                                                                  
+
+SQL> spool off
